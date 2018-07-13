@@ -1,0 +1,10 @@
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\bin\Debug\FootballPerformance.exe.config
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\bin\Debug\FootballPerformance.exe
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\bin\Debug\FootballPerformance.pdb
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\bin\Debug\FileHelpers.dll
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\bin\Debug\FileHelpers.xml
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\obj\Debug\FootballPerformance.csprojAssemblyReference.cache
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\obj\Debug\FootballPerformance.csproj.CoreCompileInputs.cache
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\obj\Debug\FootballPerformance.csproj.CopyComplete
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\obj\Debug\FootballPerformance.exe
+C:\Users\GD Singh\Desktop\jasmeen\FootballBestPerformance\FootballPerformance\FootballPerformance\obj\Debug\FootballPerformance.pdb
